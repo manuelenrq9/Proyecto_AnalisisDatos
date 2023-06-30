@@ -1,0 +1,34 @@
+---
+title: "PF1_Yoikerth-Cadíz_Joseph-Medrano_Yorgelis-Salgado_Manuel-Tirado"
+author: "Cadiz_Medrano_Salgado_Tirado"
+date: "2023-06-22"
+output: html_document
+---
+
+## **Proyecto**
+### Miembros del equipo: 
+#### Cadíz Asuaje, Yoikerth Alfredo
+#### Medrano Espinoza, Joseph Del Valle
+#### Salgado Mendoza, Yorgelis Paola 
+#### Tirado Echenique, Manuel Enrique
+
+## **Título propuesto del proyecto**
+#### Análizar el registro de ventas en los canales electrónicos de la empresa XYZ C.A
+
+## **Descripción de datos a utilizar**
+#### Para llevar a ejecución el análisis de la empresa XYZ C.A se hace uso de los datos provenientes de la página www.kaggle.com, la misma es un portal dedicado a la difusión de la disciplina de ciencia de datos. A través de este portal se seleccionan los datos originarios de la facturación pertenecientes a una tienda de comercio electrónico ubicada en la India.
+
+## **Justificación**
+#### En ambientes tan competitivos como el de los negocios requieren realizar mediciones para el control, desarrollo o desincorporación de productos en una organización. Por eso, en esta oportunidad se  realiza dichas mediciones para la empresa XYZ y así evaluar si se puede mantener el nivel de competitividad en la industria en la que se desempeña.  Es por ello, que la presente investigación lleva como finalidad dar respuestas a las diversas interrogantes aquí planteadas, como lo son: la tasa de envíos fallidos, la tasa de envíos realizados por amazon y manejados exclusivamente por la tienda y también identificar la tasa de envíos por categorías de productos.
+
+## **Fuente**
+#### [https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data]
+
+## **Tópico a abordar/interrogante(s) a ser contestada(s)**
+#### ¿Cuál es la tasa de envíos fallidos?
+#### ¿Cuál es la tasa de envíos realizados por Amazon y manejados exclusivamente por  la tienda?
+#### ¿Cuál es la tasa de envíos por categoría de producto?
+
+## **Metodología a utilizar**
+#### El análisis de los registros de ventas de los canales electrónicos de la empresa XYZ C.A, se va a realizar a través de el lenguaje de programación R utilizando su plataforma la cual es Rstudio, allí se hará uso de Metodología KDD (Knowledge Discovery in Databases) de los 5 pasos. 
+#### Iniciando con la selección de un dataset principal donde se va a seleccionar un subconjunto de variables que va a servir de apoyo en la exploración del fenómeno que se está estudiando, en el pre-procesamiento se realiza la limpieza y balanceo de datos, siguiendo con la parte de la transformación, el método sugiere que se reduzcan las dimensiones con técnicas estadísticas para manejar la menor cantidad de variables necesarias, en minería de datos se busca patrones de interés o representativos en relación al objetivo de la minería de datos; y finalmente para colar al conocimiento se pasará por el proceso de interpretación y evaluación de modelo.  Al final de la iteración se le otorga una calificación al modelo y si no se cumplieron satisfactoriamente los objetivos se repite hasta que sean logrados.
